@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="result_text">%1\$s %2\$s is equal to %3\$s %4\$s</string>
+    <string-array name="length_units">
+        <item>Meters</item>
+        <item>Feet</item>
+    </string-array>
+</resources>
